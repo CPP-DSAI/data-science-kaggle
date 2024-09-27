@@ -1,2 +1,3 @@
-# data-science-kaggle
-Part of the Cal Poly Pomona, Data Science &amp; AI club. We're doing a data science project in teams called Kaggles 🙃
+# Data Science and AI club - Kaggle Teams 
+@ Cal Poly Pomona \
+We're doing a data science project in teams called Kaggles 🙃
